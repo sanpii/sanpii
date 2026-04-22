@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Sanpi's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 200, Total Commits  : 10902, Total PRs: 253, Total Issues: 227, Contributed to (last year): 28</desc>
+        <desc id="descId">Total Stars Earned: 200, Total Commits  : 10903, Total PRs: 253, Total Issues: 227, Contributed to (last year): 28</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 41.99646573840261;
+        stroke-dashoffset: 41.99645057018497;
       }
     }
   
